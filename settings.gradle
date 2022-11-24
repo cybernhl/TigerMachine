@@ -1,0 +1,3 @@
+rootProject.name = "TigerMachine"
+include ':app'
+project(":app").projectDir = file("./TigerMachine")
